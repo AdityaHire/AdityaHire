@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Aditya Hire
 
-Welcome to my GitHub! I'm a passionate AI & Data Science student exploring the world of software development and machine learning. I enjoy building intelligent applications, solving real-world problems, and creating impactful solutions using modern technologies.
+AI & Data Science Engineering student specializing in building intelligent applications and scalable web solutions. Focused on machine learning, computer vision, and full-stack development with Django.
 
 ---
 
 ## 💼 About Me
 
-• 🎓 **AI & Data Science** student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
-• 💻 **Django Developer** with hands-on experience in building scalable web applications  
-• 🧠 Interests: **Machine Learning, Computer Vision, REST API Development**  
-• 🛠️ Learning: **System Design, Advanced ML Algorithms, Cloud Deployment**  
-• 🤝 Open to **internships, freelance work, and collaborative projects**
+• 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
+• 💻 Django Developer with hands-on experience in building scalable web applications  
+• 🧠 Specializing in **Machine Learning, Computer Vision, and REST API Development**  
+• 🛠️ Currently learning **System Design, Advanced ML Algorithms, and Cloud Deployment**  
+• 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
 
@@ -18,34 +18,34 @@ Welcome to my GitHub! I'm a passionate AI & Data Science student exploring the w
 
 | **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
 |---------------|---------------------------|---------------|----------------------|
-| Python, SQL | Django, DRF | MySQL, SQLite, MongoDB | Git, GitHub, VS Code |
+| Python, SQL | Django, DRF | MySQL, SQLite | Git, GitHub, VS Code |
 | HTML, CSS, JavaScript | Scikit-learn, Pandas, NumPy | | PyCharm, Jupyter Notebook |
 | | MediaPipe, OpenCV, Matplotlib | | Heroku, Render, Postman |
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 [MediMatch – Medicine Recommendation System 💊](#)
+### 🔹 MediMatch – Medicine Recommendation System
 
-> A Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
+Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
 
 **Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning  
-**Features:** TF-IDF vectorization, Data-driven recommendations, Responsive UI with MVT architecture
+**Key Features:** TF-IDF vectorization, Data-driven recommendations, MVT architecture
 
-### 🔹 [ShopNexa – E-Commerce Web Application 🛒](#)
+### 🔹 ShopNexa – E-Commerce Web Application
 
-> A full-stack e-commerce platform with secure authentication, shopping cart functionality, and seamless user experience.
+Full-stack e-commerce platform with secure authentication, shopping cart functionality, and comprehensive admin management.
 
 **Tech Stack:** Django, Bootstrap, MySQL, Django ORM  
-**Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model, Admin panel
+**Key Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model
 
-### 🔹 [Pose Estimation – AI Fitness Application 🏋️](#)
+### 🔹 Pose Estimation – AI Fitness Application
 
-> Real-time pose estimation system using computer vision to track body movements and provide fitness feedback.
+Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations.
 
 **Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision  
-**Features:** 33-point body landmark detection, Exercise rep counting, Real-time posture analysis
+**Key Features:** 33-point body landmark detection, Exercise rep counting, Real-time analysis
 
 ---
 
@@ -72,23 +72,17 @@ Welcome to my GitHub! I'm a passionate AI & Data Science student exploring the w
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-• 💼 **LinkedIn:** [linkedin.com/in/aditya-hire](https://linkedin.com/in/aditya-hire)  
-• 📧 **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
-• 📱 **Phone:** [+91 9561534942](tel:+919561534942)  
-• 💬 **GitHub:** Follow me for more projects and updates!
-
----
-
-> *"Code is not just code, it's your voice in the digital world. Let it speak volumes."*
+• **LinkedIn:** [linkedin.com/in/aditya-hire](https://linkedin.com/in/aditya-hire)  
+• **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+• **Phone:** +91 9561534942  
+• **GitHub:** Follow for more projects and updates
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
 
-**⭐ Star my repositories if you find them useful!**
 
 </div>
