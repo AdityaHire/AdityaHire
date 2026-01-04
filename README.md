@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate AI & Data Science student exploring the w
 
 | **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
 |---------------|---------------------------|---------------|----------------------|
-| Python, SQL | Django, DRF | MySQL, SQLite | Git, GitHub, VS Code |
+| Python, SQL | Django, DRF | MySQL, SQLite, MongoDB | Git, GitHub, VS Code |
 | HTML, CSS, JavaScript | Scikit-learn, Pandas, NumPy | | PyCharm, Jupyter Notebook |
 | | MediaPipe, OpenCV, Matplotlib | | Heroku, Render, Postman |
 
