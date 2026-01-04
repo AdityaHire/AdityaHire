@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Aditya Hire
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Aditya+Hire" alt="Typing SVG" />
+</div>
 
 AI & Data Science Engineering student specializing in building intelligent applications and scalable web solutions. Focused on machine learning, computer vision, and full-stack development with Django.
 
