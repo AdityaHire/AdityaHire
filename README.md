@@ -7,7 +7,6 @@ AI & Data Science Engineering student specializing in building intelligent appli
 ## 💼 About Me
 
 • 🎓 Final Year AI & Data Science Engineering Student
-
 • 💻 Django Developer with hands-on experience in building scalable web applications  
 • 🧠 Specializing in **Machine Learning, Computer Vision, and REST API Development**  
 • 🤝 Open to internships, freelance work, and collaborative projects
