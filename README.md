@@ -1,68 +1,59 @@
-<div align="center">
-
 # 👋 Hi, I'm Aditya Hire
 
-### AI & Data Science Engineer | Django Developer | ML Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditya-hire)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adityahire08@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
-
-</div>
+Welcome to my GitHub! I'm a passionate AI & Data Science student exploring the world of software development and machine learning. I enjoy building intelligent applications, solving real-world problems, and creating impactful solutions using modern technologies.
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-🎓 **AI & Data Science** student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
-💻 **Django Developer** with hands-on experience in building scalable web applications  
-🧠 Passionate about **Machine Learning, Computer Vision**, and **REST API Development**  
-🤝 Open to **internships, collaborations**, and **open-source contributions**  
-🏆 **1st Place - AI Quiz Competition** | **Published Researcher** | **GDG Member**
+• 🎓 **AI & Data Science** student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
+• 💻 **Django Developer** with hands-on experience in building scalable web applications  
+• 🧠 Interests: **Machine Learning, Computer Vision, REST API Development**  
+• 🛠️ Learning: **System Design, Advanced ML Algorithms, Cloud Deployment**  
+• 🤝 Open to **internships, freelance work, and collaborative projects**
 
 ---
 
 ## 💻 Tech Stack
 
-```text
-Languages:       Python • SQL
-Frameworks:      Django • Django REST Framework (DRF)
-ML Libraries:    Scikit-learn • Pandas • NumPy • Matplotlib • MediaPipe • OpenCV
-Databases:       MySQL • SQLite
-Tools:           Git • GitHub • VS Code • PyCharm • Jupyter Notebook
-Deployment:      Heroku • Render • GitHub Actions (CI/CD)
-Concepts:        REST APIs • Machine Learning • MVT Architecture • Computer Vision
-```
+| **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
+|---------------|---------------------------|---------------|----------------------|
+| Python, SQL | Django, DRF | MySQL, SQLite | Git, GitHub, VS Code |
+| HTML, CSS, JavaScript | Scikit-learn, Pandas, NumPy | | PyCharm, Jupyter Notebook |
+| | MediaPipe, OpenCV, Matplotlib | | Heroku, Render, Postman |
 
 ---
 
 ## 🌟 Featured Projects
 
-**🔹 MediMatch – Medicine Recommendation System** [View](#)  
-Django-based system processing 300+ symptom-medicine records with TF-IDF ML models  
-`Django` `Scikit-learn` `SQLite` `Machine Learning`
+### 🔹 [MediMatch – Medicine Recommendation System 💊](#)
 
-**🔹 ShopNexa – E-Commerce Web Application** [View](#)  
-Full-stack e-commerce platform with secure authentication & shopping cart functionality  
-`Django` `Bootstrap` `MySQL` `Django ORM`
+> A Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
 
-**🔹 Pose Estimation – AI Fitness Application** [View](#)  
-Real-time pose tracking using MediaPipe to analyze movements & count exercise reps  
-`Python` `MediaPipe` `OpenCV` `Computer Vision`
+**Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning  
+**Features:** TF-IDF vectorization, Data-driven recommendations, Responsive UI with MVT architecture
+
+### 🔹 [ShopNexa – E-Commerce Web Application 🛒](#)
+
+> A full-stack e-commerce platform with secure authentication, shopping cart functionality, and seamless user experience.
+
+**Tech Stack:** Django, Bootstrap, MySQL, Django ORM  
+**Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model, Admin panel
+
+### 🔹 [Pose Estimation – AI Fitness Application 🏋️](#)
+
+> Real-time pose estimation system using computer vision to track body movements and provide fitness feedback.
+
+**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision  
+**Features:** 33-point body landmark detection, Exercise rep counting, Real-time posture analysis
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
@@ -91,12 +82,21 @@ Real-time pose tracking using MediaPipe to analyze movements & count exercise re
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-**💼 [LinkedIn](https://linkedin.com/in/aditya-hire)** • **📧 [Email](mailto:adityahire08@gmail.com)** • **📱 [+91 9561534942](tel:+919561534942)**
+• 💼 **LinkedIn:** [linkedin.com/in/aditya-hire](https://linkedin.com/in/aditya-hire)  
+• 📧 **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+• 📱 **Phone:** [+91 9561534942](tel:+919561534942)  
+• 💬 **GitHub:** Follow me for more projects and updates!
 
 ---
 
-*"Building solutions that make a difference, one commit at a time."* 🚀
+> *"Code is not just code, it's your voice in the digital world. Let it speak volumes."*
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
+
+**⭐ Star my repositories if you find them useful!**
 
 </div>
