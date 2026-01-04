@@ -9,7 +9,6 @@ AI & Data Science Engineering student specializing in building intelligent appli
 • 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
 • 💻 Django Developer with hands-on experience in building scalable web applications  
 • 🧠 Specializing in **Machine Learning, Computer Vision, and REST API Development**  
-• 🛠️ Currently learning **System Design, Advanced ML Algorithms, and Cloud Deployment**  
 • 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
@@ -18,7 +17,7 @@ AI & Data Science Engineering student specializing in building intelligent appli
 
 | **Languages** | **Frameworks & Libraries** | **Databases** | **Tools & Platforms** |
 |---------------|---------------------------|---------------|----------------------|
-| Python, SQL | Django, DRF | MySQL, SQLite | Git, GitHub, VS Code |
+| Python, SQL | Django, DRF | MySQL, SQLite, MongoDB | Git, GitHub, VS Code |
 | HTML, CSS, JavaScript | Scikit-learn, Pandas, NumPy | | PyCharm, Jupyter Notebook |
 | | MediaPipe, OpenCV, Matplotlib | | Heroku, Render, Postman |
 
@@ -66,8 +65,7 @@ Real-time pose estimation system using computer vision to track body movements a
 ## 🏆 Achievements & Certifications
 
 **🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-**📜 Certifications:** Python (NPTEL) • Django Framework (CAD Desk+) • AWS (Forage) • TCS Career Edge  
+**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM    
 **👥 Google Developer Group (GDG)** - Active Member at PRPCEM
 
 ---
@@ -82,7 +80,5 @@ Real-time pose estimation system using computer vision to track body movements a
 ---
 
 <div align="center">
-
-
-
+Built with logic. Driven by purpose.
 </div>
