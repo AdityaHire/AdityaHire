@@ -75,9 +75,7 @@ Real-time pose estimation system using computer vision to track body movements a
 • **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
 • **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
 • **Phone:** +91 9561534942  
-• **GitHub:** Follow for more projects and updates
-
----
+• **Portfolio:** https://adityahire.github.io/myportfolio/
 
 <div align="center">
 Built with logic. Driven by purpose.
