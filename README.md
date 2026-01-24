@@ -15,19 +15,23 @@ AI & Data Science Engineering student specializing in building intelligent appli
 
 ## 💻 Tech Stack
 
-**Languages:**  
-`Python` `SQL` `HTML` `CSS` `JavaScript`
+**Programming:**  
+`Python` `SQL` `JavaScript`
 
-**Frameworks & Libraries:**  
-`Django` `Django REST Framework` `Bootstrap` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `MediaPipe` `Matplotlib`
+**Libraries & Frameworks:**  
+`Django` `NumPy` `Pandas` `Matplotlib`
 
 **Databases:**  
 `MySQL` `SQLite` `MongoDB`
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `PyCharm` `Jupyter Notebook` `Heroku` `Render` `Postman`
+`Git` `GitHub` `Jupyter Notebook` `PyCharm` `VS Code`
 
----
+**Deployment & DevOps:**  
+`Heroku` `Render` `GitHub Actions (CI/CD)`
+
+**Concepts:**  
+`REST APIs` `Machine Learning` `MVT Architecture`---
 
 ## 🚀 Featured Projects
 
