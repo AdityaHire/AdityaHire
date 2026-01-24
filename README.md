@@ -53,7 +53,8 @@ Full-stack e-commerce platform with secure authentication, shopping cart functio
 
 Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
 
-**Tech Stack:** Django, HTML, CSS, JavaScript, Bootstrap, MySQL                                                                                                                                                 **Key Features:** Movie listings & showtimes, Seat selection, Ticket booking workflow, Admin management, MVT architecture
+**Tech Stack:** Django, HTML, CSS, JavaScript, Bootstrap, MySQL
+**Key Features:** Movie listings & showtimes, Seat selection & booking, Secure user authentication, Admin management, MVT architecture
 
 ### 🔹 Pose Estimation – AI Fitness Application
 
