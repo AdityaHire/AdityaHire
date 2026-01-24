@@ -76,16 +76,13 @@ Real-time pose estimation system using computer vision to track body movements a
 ## 💼 Experience
 
 **Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
-
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
 **Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
-
 • Built responsive Django applications with REST APIs and secure authentication
 
 **Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
-
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
 ---
