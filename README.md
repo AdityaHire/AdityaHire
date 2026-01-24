@@ -33,6 +33,8 @@ AI & Data Science Engineering student specializing in building intelligent appli
 **Concepts:**  
 `REST APIs` `Machine Learning` `MVT Architecture`
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 MediMatch – Medicine Recommendation System
@@ -42,6 +44,8 @@ Django-based intelligent system that recommends medicines based on symptoms. Pro
 **Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning  
 **Key Features:** TF-IDF vectorization, Data-driven recommendations, MVT architecture
 
+---
+
 ### 🔹 ShopNexa – E-Commerce Web Application
 
 Full-stack e-commerce platform with secure authentication, shopping cart functionality, and comprehensive admin management.
@@ -49,12 +53,16 @@ Full-stack e-commerce platform with secure authentication, shopping cart functio
 **Tech Stack:** Django, Bootstrap, MySQL, Django ORM  
 **Key Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model
 
+---
+
 ### 🔹 MovieMate – Movie Ticket Booking Platform
 
 Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
 
 **Tech Stack:** Django, HTML, CSS, JavaScript, Bootstrap, MySQL  
 **Key Features:** Movie listings & showtimes, Seat selection & booking, Secure user authentication, Admin management, MVT architecture
+
+---
 
 ### 🔹 Pose Estimation – AI Fitness Application
 
@@ -67,17 +75,14 @@ Real-time pose estimation system using computer vision to track body movements a
 
 ## 💼 Experience
 
-### 🔹**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
-
+**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
-### 🔹**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
-
+**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
 • Built responsive Django applications with REST APIs and secure authentication
 
-### 🔹**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
-
+**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
 ---
@@ -97,6 +102,8 @@ Real-time pose estimation system using computer vision to track body movements a
 • **Phone:** +91 9561534942  
 • **Portfolio:** https://adityahire.github.io/myportfolio/
 
+---
+
 <div align="center">
-Built with logic. Driven by purpose.
+  <strong>Built with logic. Driven by purpose.</strong>
 </div>
