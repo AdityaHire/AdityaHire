@@ -31,7 +31,7 @@ AI & Data Science Engineering student specializing in building intelligent appli
 `Heroku` `Render` `GitHub Actions (CI/CD)`
 
 **Concepts:**  
-`REST APIs` `Machine Learning` `MVT Architecture`---
+`REST APIs` `Machine Learning` `MVT Architecture`
 
 ## 🚀 Featured Projects
 
