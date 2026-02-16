@@ -14,7 +14,7 @@ AI & Data Science Engineering student specializing in building intelligent appli
 
 • 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
 • 💻 Django Developer with hands-on experience in building scalable web applications  
-• 🧠 Specializing in **Machine Learning, Computer Vision, and REST API Development**  
+• 🧠 Specializing in **Machine Learning, Full Stack Devlopment, and REST API Development**  
 • 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
@@ -108,16 +108,16 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 💼 Experience
 
-**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
+### **Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
 
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
-**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
+### **Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
 
 • Built responsive Django applications with REST APIs and secure authentication
 
-**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
+### **Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
 
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
@@ -125,17 +125,17 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 🏆 Achievements & Certifications
 
-**🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-**👥 Google Developer Group (GDG)** - Active Member at PRPCEM
+### **🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
+### **🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
+### **👥 Google Developer Group (GDG)** - Active Member at PRPCEM
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityahire&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahire&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaHire&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHire&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333" alt="Top Languages" height="165"/>
 </p>
 
 ---
