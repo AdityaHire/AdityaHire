@@ -1,34 +1,25 @@
-<div align="center">
-
 # Hi, I'm Aditya Hire
 
-### AI Engineer | Full-Stack Developer | Machine Learning Enthusiast
+AI & Data Science Engineering student specializing in building intelligent applications and scalable web solutions. Focused on machine learning, computer vision, and full-stack development with Django.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-hire-2a0974357)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://AdityaHire.github.io/myportfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:AdityaHire08@gmail.com)
-
-</div>
-
----
-
-## About Me
-
-**Published AI Researcher** | AI & Data Science Engineering Student building production-ready intelligent systems.
-
-**Seeking:** Full-time roles & Internships in AI/ML, Backend Development, Full-Stack Engineering
-
-**Expertise:** Machine Learning • Computer Vision • Django/MERN Stack • REST APIs • CI/CD
-
-**Highlights:**
-- Published research in MAT Journals on AI pose correction
-- 1st Place, AI Competition, Global AI Bootcamp 2025
-- 7+ production applications with measurable impact
-- 3 successful industry internships
+<p align="left">
+  <a href="https://linkedin.com/in/aditya-hire-2a0974357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:adityahire08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://adityahire.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-## Tech Stack
+## 💼 About Me
+
+• 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
+• 💻 Django Developer with hands-on experience in building scalable web applications  
+• 🧠 Specializing in **Machine Learning, Computer Vision, and REST API Development**  
+• 🤝 Open to internships, freelance work, and collaborative projects
+
+---
+
+## 💻 Tech Stack
 
 **Programming:**  
 `Python` `SQL` `JavaScript`
@@ -50,105 +41,114 @@
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [MediMatch](https://github.com/AdityaHire) – AI Medicine Recommendation
-**Impact:** Healthcare ML solution • 300+ symptom-medicine relationships • 85%+ accuracy
+### 🔹 MediMatch – Medicine Recommendation System
 
-**Tech:** Django • Scikit-learn • TF-IDF • REST APIs • SQLite
+Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
 
----
-
-### [ShopNexa](https://github.com/AdityaHire) – E-Commerce Platform
-**Impact:** 1000+ products • 40% faster page loads • Secure authentication
-
-**Tech:** Django • MySQL • Bootstrap • JavaScript
+**Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning  
+**Key Features:** TF-IDF vectorization, Data-driven recommendations, MVT architecture
 
 ---
 
-### [MovieMate](https://github.com/AdityaHire) – Ticket Booking System
-**Impact:** Real-time seat reservation • Payment integration • Zero double-booking
+### 🔹 Blogify – Blog Platform
 
-**Tech:** Django • MySQL • AJAX • Bootstrap
+Full-stack blogging platform featuring user authentication, content management, rich text editing, and comment system. Built with modern MERN architecture for optimal performance and scalability.
 
----
-
-### [Pose Estimation](https://github.com/AdityaHire) – AI Fitness Coach
-**Impact:** 95%+ accuracy • Published research • Real-time exercise tracking
-
-**Tech:** Python • MediaPipe • OpenCV • Computer Vision
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT Authentication  
+**Key Features:** User authentication, Rich text editor, Comment system, Responsive design
 
 ---
 
-### [Blogify](https://github.com/AdityaHire) – Blogging Platform (MERN)
-**Impact:** Full-stack CMS • JWT authentication • 15+ REST endpoints
+### 🔹 ShopNexa – E-Commerce Platform
 
-**Tech:** MongoDB • Express • React • Node.js • Redux
+Comprehensive e-commerce solution with shopping cart, payment integration, inventory management, and admin dashboard. Features category filtering, pagination, and SEO-friendly URLs.
 
----
-
-## Professional Experience
-
-### Django Developer Intern
-**JK Innovative Private Limited** | *Dec 2024 – Jan 2025*
-- Scalable Django apps handling 500+ daily users
-- 35% faster database queries through ORM optimization
-
-### Python Full Stack Developer Intern
-**AICTE Remote Internship** | *Apr 2025 – Jun 2025*
-- Built Django REST APIs with JWT authentication
-- Agile project delivery and deployment
-
-### AI/ML Virtual Intern
-**AICTE Google AI-ML Program** | *Nov 2024 – Dec 2024*
-- ML models with 88% accuracy on classification tasks
-- Scikit-learn, Pandas, NumPy implementation
+**Tech Stack:** Django, Bootstrap, MySQL, Django ORM, Payment Gateway  
+**Key Features:** Shopping cart, Payment integration, Admin dashboard, Category filtering, SEO-friendly URLs
 
 ---
 
-## Achievements
+### 🔹 MovieMate – Movie Ticket Booking System
 
-**Published Research** — *"FitVerse: AI-Driven Pose Correction System"* | MAT Journals, 2025
+Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
 
-**1st Place Winner** — AI Quiz Competition, Global AI Bootcamp 2025 | 100+ participants
-
-**GDG Member** — Google Developer Group | Active contributor to tech workshops
+**Tech Stack:** Django, JavaScript, MySQL, Bootstrap  
+**Key Features:** Movie listings & showtimes, Seat selection, Secure authentication, Admin management, MVT architecture
 
 ---
 
-## GitHub Stats
+### 🔹 Pose Estimation – AI Fitness Application
+
+Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations for fitness monitoring.
+
+**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision, NumPy  
+**Key Features:** 33-point body landmark detection, Exercise rep counting, Real-time analysis, Form correction feedback
+
+---
+
+### 🔹 TaskMate – Task Management App
+
+Productivity application for efficient task organization with priority levels, deadline tracking, progress monitoring, and notification system. Features intuitive UI for enhanced user experience.
+
+**Tech Stack:** Django, Bootstrap, SQLite, JavaScript  
+**Key Features:** Priority levels, Deadline tracking, Progress monitoring, Notification system, CRUD operations
+
+---
+
+### 🔹 Quiz Game – Interactive Quiz App
+
+Dynamic quiz application with multiple question types, timer functionality, real-time scoring, and performance analytics. Features responsive design and smooth user interactions.
+
+**Tech Stack:** HTML, CSS, JavaScript, Local Storage  
+**Key Features:** Timer functionality, Real-time scoring, Performance analytics, Responsive design, DOM manipulation
+
+---
+
+## 💼 Experience
+
+**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
+
+• Developed optimized Django web applications with efficient data processing  
+• Managed MySQL databases using Django ORM with schema migrations
+
+**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
+
+• Built responsive Django applications with REST APIs and secure authentication
+
+**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
+
+• Gained experience in ML algorithms, model building using Pandas & Scikit-learn
+
+---
+
+## 🏆 Achievements & Certifications
+
+**🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
+**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
+**👥 Google Developer Group (GDG)** - Active Member at PRPCEM
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityahire&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahire&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📫 Contact
+
+• **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
+• **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+• **Phone:** +91 9561534942  
+• **Portfolio:** https://adityahire.github.io/myportfolio/
+
+---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaHire&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHire&layout=compact&theme=radical)
-
-</div>
-
----
-
-## Let's Connect
-
-I'm actively seeking opportunities in **AI/ML Engineering**, **Backend Development**, and **Full-Stack Roles**. Let's discuss how I can contribute to your team!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Hire-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-hire-2a0974357)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://AdityaHire.github.io/myportfolio/)
-[![Email](https://img.shields.io/badge/Email-AdityaHire08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AdityaHire08@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91_9561534942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919561534942)
-
-</div>
-
----
-
-<div align="center">
-
-### "Building intelligent solutions that create real-world impact"
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdityaHire&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**Available for:** Full-time roles • Internships • Freelance projects • Research collaborations
-
+  <strong>Built with logic. Driven by purpose.</strong>
 </div>
