@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Hire
+#  Hi, I'm Aditya Hire
 
 Result-driven developer with hands-on experience building scalable web applications and implementing data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product performance, and grow in a fast-paced organization through continuous learning and collaboration.
 
@@ -144,25 +144,52 @@ Active contributor to technical workshops and hackathons at PRPCEM
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-hire-2a0974357">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Hire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adityahire08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adityahire08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://adityahire.github.io/myportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="tel:+919561534942">
-    <img src="https://img.shields.io/badge/Phone-+91_9561534942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  <a href="https://github.com/AdityaHire">
-    <img src="https://img.shields.io/badge/GitHub-AdityaHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+I'm actively seeking opportunities in **AI/ML Engineering**, **Backend Development**, and **Full-Stack roles**. Feel free to reach out for collaborations, opportunities, or just to connect!
+
+<table>
+<tr>
+<td>
+
+**🔗 LinkedIn**  
+[linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
+*Connect for professional networking*
+
+</td>
+<td>
+
+**📧 Email**  
+[adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+*Best way to reach me directly*
+
+</td>
+</tr>
+<tr>
+<td>
+
+**💼 GitHub**  
+[github.com/AdityaHire](https://github.com/AdityaHire)  
+*Check out my code and projects*
+
+</td>
+<td>
+
+**🌐 Portfolio**  
+[adityahire.github.io/myportfolio](https://adityahire.github.io/myportfolio/)  
+*View my complete work showcase*
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**📱 Phone:** +91 9561534942  
+*Available for calls and WhatsApp*
+
+</td>
+</tr>
+</table>
 
 ---
 
