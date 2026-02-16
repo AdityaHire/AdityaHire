@@ -31,58 +31,55 @@ AI & Data Science Engineering student specializing in building intelligent appli
 `Heroku` `Render` `GitHub Actions (CI/CD)`
 
 **Concepts:**  
-`REST APIs` `Machine Learning` `MVT Architecture`
+`REST APIs` `Machine Learning` `MVT Architecture` `System Design`
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 MediMatch – Medicine Recommendation System
+Django ML system using TF-IDF for symptom-based medicine recommendations
+**Tech Stack:** Django, Scikit-learn, SQLite
 
-Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
+### 🔹 Blogify – Blog Platform
+Full-stack blogging platform with user authentication and content management
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN)
 
-**Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning  
-**Key Features:** TF-IDF vectorization, Data-driven recommendations, MVT architecture
+### 🔹 ShopNexa – E-Commerce Platform
+Complete e-commerce solution with cart functionality and admin panel
+**Tech Stack:** Django, Bootstrap, MySQL
 
----
+### 🔹 MovieMate – Ticket Booking System
+Movie booking platform with seat selection and secure payments
+**Tech Stack:** Django, JavaScript, MySQL
 
-### 🔹 ShopNexa – E-Commerce Web Application
+### 🔹 TaskMate – Task Management App
+Productivity app for organizing tasks with priority levels and deadlines
+**Tech Stack:** Django, Bootstrap, SQLite
 
-Full-stack e-commerce platform with secure authentication, shopping cart functionality, and comprehensive admin management.
+### 🔹 Quiz Game – Interactive Quiz App
+Dynamic quiz application with scoring and timer functionality
+**Tech Stack:** HTML, CSS, JavaScript
 
-**Tech Stack:** Django, Bootstrap, MySQL, Django ORM  
-**Key Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model
-
----
-
-### 🔹 MovieMate – Movie Ticket Booking Platform
-
-Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
-
-**Tech Stack:** Django, HTML, CSS, JavaScript, Bootstrap, MySQL  
-**Key Features:** Movie listings & showtimes, Seat selection & booking, Secure user authentication, Admin management, MVT architecture
-
----
-
-### 🔹 Pose Estimation – AI Fitness Application
-
-Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations.
-
-**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision  
-**Key Features:** 33-point body landmark detection, Exercise rep counting, Real-time analysis
+### 🔹 Pose Estimation – AI Fitness App
+Real-time pose tracking for exercise feedback using computer vision
+**Tech Stack:** Python, MediaPipe, OpenCV
 
 ---
 
 ## 💼 Experience
 
 **Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
+
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
 **Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
+
 • Built responsive Django applications with REST APIs and secure authentication
 
 **Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
+
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
 ---
