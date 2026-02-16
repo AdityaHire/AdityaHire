@@ -1,7 +1,8 @@
 # Hi, I'm Aditya Hire
 
-AI & Data Science Engineering student specializing in building intelligent applications and scalable web solutions. Focused on machine learning, computer vision, and full-stack development with Django.
-
+Result-driven developer with hands-on experience building scalable web applications and implementing
+data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product
+performance, and grow in a fast-paced organization through continuous learning and collaboration.
 ---
 
 ## 💼 About Me
@@ -87,7 +88,7 @@ Real-time pose estimation system using computer vision to track body movements a
 Productivity application for efficient task organization with priority levels, deadline tracking, progress monitoring, and notification system. Features intuitive UI for enhanced user experience.
 
 **Tech Stack:** Django, Bootstrap, SQLite, JavaScript  
-**Key Features:** Priority levels, Deadline tracking, Progress monitoring, Notification system, CRUD operations
+**Key Features:** Priority levels, Deadline tracking, Progress monitoring, CRUD operations
 
 ---
 
@@ -102,16 +103,16 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 💼 Experience
 
-**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
+### 🔹 Django Developer Intern | JK Innovative Private Limited, Amravati | Dec 2024 – Jan 2025 
 
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
-**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
+### 🔹 Python Full Stack Virtual Intern | AICTE Remote Internship | Apr 2025 – Jun 2025
 
 • Built responsive Django applications with REST APIs and secure authentication
 
-**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
+### 🔹 Google AI-ML Virtual Intern | AICTE Remote Internship | Nov 2024 – Dec 2024 
 
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
@@ -128,39 +129,17 @@ Dynamic quiz application with multiple question types, timer functionality, real
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaHire&show_icons=true&theme=default" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHire&layout=compact&theme=default" alt="Top Languages" height="180"/>
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaHire&theme=default" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AdityaHire&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-hire-2a0974357">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Hire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adityahire08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adityahire08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://adityahire.github.io/myportfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="tel:+919561534942">
-    <img src="https://img.shields.io/badge/Phone-+91_9561534942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-  <a href="https://github.com/AdityaHire">
-    <img src="https://img.shields.io/badge/GitHub-AdityaHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+• **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
+• **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+• **Phone:** +91 9561534942  
+• **Portfolio:** https://adityahire.github.io/myportfolio/
 
 ---
 
