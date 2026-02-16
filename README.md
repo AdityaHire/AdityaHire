@@ -105,9 +105,34 @@ Developed foundational expertise in machine learning algorithms and model develo
 
 ## 🏆 Achievements
 
-📄 **Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-🥇 **1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-👥 **Google Developer Group (GDG)** - Active Member at PRPCEM
+<table>
+<tr>
+<td width="33%">
+
+### 📄 Published Research
+**FitVerse: AI-Driven Real-Time Pose Correction System**
+
+MAT Journals, 2025 | Focus on Computer Vision & Machine Learning
+
+</td>
+<td width="33%">
+
+### 🥇 1st Place Winner
+**AI Quiz Competition**
+
+Global AI Bootcamp 2025, PRPCEM | Competed against 100+ participants
+
+</td>
+<td width="33%">
+
+### 👥 GDG Member
+**Google Developer Group**
+
+Active contributor to technical workshops and hackathons at PRPCEM
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,10 +146,23 @@ Developed foundational expertise in machine learning algorithms and model develo
 
 ## 📫 Contact
 
-• **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
-• **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
-• **📱 Phone:** +91 9561534942  
-• **🌐 Portfolio:** https://adityahire.github.io/myportfolio/
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-hire-2a0974357">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Hire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityahire08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adityahire08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://adityahire.github.io/myportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="tel:+919561534942">
+    <img src="https://img.shields.io/badge/Phone-+91_9561534942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://github.com/AdityaHire">
+    <img src="https://img.shields.io/badge/GitHub-AdityaHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
