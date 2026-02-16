@@ -1,24 +1,25 @@
 # Hi, I'm Aditya Hire
 
 Result-driven developer with hands-on experience building scalable web applications and implementing data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product performance, and grow in a fast-paced organization through continuous learning and collaboration.
----
-
-## 💼 About Me
-
-• 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
-• 💻 Django Developer with hands-on experience in building scalable web applications  
-• 🧠 Specializing in **Machine Learning, Full Stack Devlopment, and REST API Development**  
-• 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
 
-## 💻 Tech Stack
+## About Me
+
+• AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
+• Django Developer with hands-on experience in building scalable web applications  
+• Specializing in **Full Stack Devlopment ,Machine Learning, and REST API Development**  
+• Open to internships, freelance work, and collaborative projects
+
+---
+
+## Tech Stack
 
 **Programming:**  
 `Python` `SQL` `JavaScript`
 
 **Libraries & Frameworks:**  
-`Django` `React` `Node.js` `Express.js` `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+`Django` `NumPy` `Pandas` `Matplotlib`
 
 **Databases:**  
 `MySQL` `SQLite` `MongoDB`
@@ -30,13 +31,13 @@ Result-driven developer with hands-on experience building scalable web applicati
 `Heroku` `Render` `GitHub Actions (CI/CD)`
 
 **Concepts:**  
-`REST APIs` `Machine Learning` `Computer Vision` `MVT Architecture` `System Design`
+`REST APIs` `Machine Learning` `MVT Architecture` `System Design`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 MediMatch – Medicine Recommendation System
+### MediMatch – Medicine Recommendation System
 
 Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
 
@@ -45,82 +46,68 @@ Django-based intelligent system that recommends medicines based on symptoms. Pro
 
 ---
 
-### 🔹 Blogify – Blog Platform
+### ShopNexa – E-Commerce Web Application
 
-Full-stack blogging platform featuring user authentication, content management, rich text editing, and comment system. Built with modern MERN architecture for optimal performance and scalability.
+Full-stack e-commerce platform with secure authentication, shopping cart functionality, and comprehensive admin management.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT Authentication  
-**Key Features:** User authentication, Rich text editor, Comment system, Responsive design
-
----
-
-### 🔹 ShopNexa – E-Commerce Platform
-
-Comprehensive e-commerce solution with shopping cart, payment integration, inventory management, and admin dashboard. Features category filtering, pagination, and SEO-friendly URLs.
-
-**Tech Stack:** Django, Bootstrap, MySQL, Django ORM, Payment Gateway  
-**Key Features:** Shopping cart, Payment integration, Admin dashboard, Category filtering, SEO-friendly URLs
+**Tech Stack:** Django, Bootstrap, MySQL, Django ORM  
+**Key Features:** Category filtering, Pagination, SEO-friendly URLs, Custom user model
 
 ---
 
-### 🔹 MovieMate – Movie Ticket Booking System
+### MovieMate – Movie Ticket Booking Platform
 
 Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
 
-**Tech Stack:** Django, JavaScript, MySQL, Bootstrap  
-**Key Features:** Movie listings & showtimes, Seat selection, Secure authentication, Admin management, MVT architecture
+**Tech Stack:** Django, HTML, CSS, JavaScript, Bootstrap, MySQL  
+**Key Features:** Movie listings & showtimes, Seat selection & booking, Secure user authentication, Admin management, MVT architecture
 
 ---
 
-### 🔹 Pose Estimation – AI Fitness Application
+### Pose Estimation – AI Fitness Application
 
-Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations for fitness monitoring.
+Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations.
 
-**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision, NumPy  
-**Key Features:** 33-point body landmark detection, Exercise rep counting, Real-time analysis, Form correction feedback
-
----
-
-### 🔹 TaskMate – Task Management App
-
-Productivity application for efficient task organization with priority levels, deadline tracking, progress monitoring, and notification system. Features intuitive UI for enhanced user experience.
-
-**Tech Stack:** Django, Bootstrap, SQLite, JavaScript  
-**Key Features:** Priority levels, Deadline tracking, Progress monitoring, CRUD operations
+**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision  
+**Key Features:** 33-point body landmark detection, Exercise rep counting, Real-time analysis
 
 ---
 
-### 🔹 Quiz Game – Interactive Quiz App
+## Experience
 
-Dynamic quiz application with multiple question types, timer functionality, real-time scoring, and performance analytics. Features responsive design and smooth user interactions.
+### Django Developer Intern
+**JK Innovative Private Limited, Amravati** | *Dec 2024 – Jan 2025*
 
-**Tech Stack:** HTML, CSS, JavaScript, Local Storage  
-**Key Features:** Timer functionality, Real-time scoring, Performance analytics, Responsive design, DOM manipulation
-
----
-
-## 💼 Experience
-
-### 🔹 Django Developer Intern | JK Innovative Private Limited, Amravati | Dec 2024 – Jan 2025 
+Contributed to the development of enterprise web applications, focusing on backend optimization and database management. Worked collaboratively with the development team to deliver efficient, scalable solutions meeting client requirements.
 
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
-### 🔹 Python Full Stack Virtual Intern | AICTE Remote Internship | Apr 2025 – Jun 2025
+---
+
+### Python Full Stack Virtual Intern
+**AICTE Remote Internship** | *Apr 2025 – Jun 2025*
+
+Gained comprehensive experience in full-stack development, building end-to-end web applications with modern frameworks. Implemented secure authentication systems and RESTful APIs while following industry best practices.
 
 • Built responsive Django applications with REST APIs and secure authentication
 
-### 🔹 Google AI-ML Virtual Intern | AICTE Remote Internship | Nov 2024 – Dec 2024 
+---
+
+### Google AI-ML Virtual Intern
+**AICTE Remote Internship** | *Nov 2024 – Dec 2024*
+
+Developed foundational expertise in machine learning algorithms and model development through hands-on projects. Applied data preprocessing, feature engineering, and model evaluation techniques to solve real-world problems.
 
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements
 
-**🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-**👥 Google Developer Group (GDG)** - Active Member at PRPCEM
+**Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
+**1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
+**Google Developer Group (GDG)** - Active Member at PRPCEM
 
 ---
 
@@ -132,7 +119,7 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ---
 
-## 📫 Contact
+## Contact
 
 • **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
 • **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
@@ -140,6 +127,7 @@ Dynamic quiz application with multiple question types, timer functionality, real
 • **Portfolio:** https://adityahire.github.io/myportfolio/
 
 ---
+
 
 <div align="center">
   
