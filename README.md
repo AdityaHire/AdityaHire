@@ -14,7 +14,7 @@ AI & Data Science Engineering student specializing in building intelligent appli
 
 • 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
 • 💻 Django Developer with hands-on experience in building scalable web applications  
-• 🧠 Specializing in **Machine Learning, Full Stack Devlopment, and REST API Development**  
+• 🧠 Specializing in **Machine Learning, Full Stack Devlopment , and REST API Development**  
 • 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
@@ -108,16 +108,16 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 💼 Experience
 
-### **Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
+**Django Developer Intern** | JK Innovative Private Limited, Amravati | *Dec 2024 – Jan 2025*  
 
 • Developed optimized Django web applications with efficient data processing  
 • Managed MySQL databases using Django ORM with schema migrations
 
-### **Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
+**Python Full Stack Virtual Intern** | AICTE Remote Internship | *Apr 2025 – Jun 2025*  
 
 • Built responsive Django applications with REST APIs and secure authentication
 
-### **Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
+**Google AI-ML Virtual Intern** | AICTE Remote Internship | *Nov 2024 – Dec 2024*  
 
 • Gained experience in ML algorithms, model building using Pandas & Scikit-learn
 
@@ -125,9 +125,9 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 🏆 Achievements & Certifications
 
-### **🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-### **🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-### **👥 Google Developer Group (GDG)** - Active Member at PRPCEM
+**🥇 Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
+**🥇 1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
+**👥 Google Developer Group (GDG)** - Active Member at PRPCEM
 
 ---
 
@@ -142,10 +142,23 @@ Dynamic quiz application with multiple question types, timer functionality, real
 
 ## 📫 Contact
 
-• **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
-• **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
-• **Phone:** +91 9561534942  
-• **Portfolio:** https://adityahire.github.io/myportfolio/
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditya-hire-2a0974357">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Hire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityahire08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adityahire08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://adityahire.github.io/myportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="tel:+919561534942">
+    <img src="https://img.shields.io/badge/Phone-+91_9561534942-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://github.com/AdityaHire">
+    <img src="https://img.shields.io/badge/GitHub-AdityaHire-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
