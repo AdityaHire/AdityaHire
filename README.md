@@ -1,4 +1,4 @@
-#  Hi, I'm Aditya Hire
+# 👋 Hi, I'm Aditya Hire
 
 Result-driven developer with hands-on experience building scalable web applications and implementing data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product performance, and grow in a fast-paced organization through continuous learning and collaboration.
 
@@ -148,48 +148,20 @@ Active contributor to technical workshops and hackathons at PRPCEM
 
 I'm actively seeking opportunities in **AI/ML Engineering**, **Backend Development**, and **Full-Stack roles**. Feel free to reach out for collaborations, opportunities, or just to connect!
 
-<table>
-<tr>
-<td>
+**🔗 LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
+*Connect for professional networking and updates*
 
-**🔗 LinkedIn**  
-[linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
-*Connect for professional networking*
+**📧 Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
+*Best way to reach me directly for opportunities*
 
-</td>
-<td>
+**💼 GitHub:** [github.com/AdityaHire](https://github.com/AdityaHire)  
+*Check out my code, projects, and contributions*
 
-**📧 Email**  
-[adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
-*Best way to reach me directly*
-
-</td>
-</tr>
-<tr>
-<td>
-
-**💼 GitHub**  
-[github.com/AdityaHire](https://github.com/AdityaHire)  
-*Check out my code and projects*
-
-</td>
-<td>
-
-**🌐 Portfolio**  
-[adityahire.github.io/myportfolio](https://adityahire.github.io/myportfolio/)  
-*View my complete work showcase*
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+**🌐 Portfolio:** [adityahire.github.io/myportfolio](https://adityahire.github.io/myportfolio/)  
+*View my complete work showcase and case studies*
 
 **📱 Phone:** +91 9561534942  
 *Available for calls and WhatsApp*
-
-</td>
-</tr>
-</table>
 
 ---
 
