@@ -2,19 +2,13 @@
 
 AI & Data Science Engineering student specializing in building intelligent applications and scalable web solutions. Focused on machine learning, computer vision, and full-stack development with Django.
 
-<p align="left">
-  <a href="https://linkedin.com/in/aditya-hire-2a0974357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:adityahire08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://adityahire.github.io/myportfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-</p>
-
 ---
 
 ## 💼 About Me
 
 • 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
 • 💻 Django Developer with hands-on experience in building scalable web applications  
-• 🧠 Specializing in **Machine Learning, Full Stack Devlopment , and REST API Development**  
+• 🧠 Specializing in **Machine Learning, Full Stack Devlopment, and REST API Development**  
 • 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
@@ -134,8 +128,16 @@ Dynamic quiz application with multiple question types, timer functionality, real
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaHire&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=0A66C2&text_color=333333" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHire&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333333&text_color=333333" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaHire&show_icons=true&theme=default" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHire&layout=compact&theme=default" alt="Top Languages" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaHire&theme=default" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AdityaHire&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
@@ -163,5 +165,9 @@ Dynamic quiz application with multiple question types, timer functionality, real
 ---
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaHire&color=blueviolet&style=flat-square&label=Profile+Views)
+
   <strong>Built with logic. Driven by purpose.</strong>
+  
 </div>
