@@ -187,7 +187,8 @@ I'm actively seeking opportunities in **AI/ML Engineering**, **Backend Developme
 <div align="center">
   
   <strong>Built with logic. Driven by purpose.</strong>
-  ![Profile Views](https://komarev.com/ghpvc/?username=AdityaHire&color=blueviolet&style=flat-square&label=Profile+Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdityaHire&color=blueviolet&style=flat-square&label=Profile+Views)
 
   
 </div>
