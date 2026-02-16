@@ -1,19 +1,19 @@
-# Hi, I'm Aditya Hire
+# 👋 Hi, I'm Aditya Hire
 
 Result-driven developer with hands-on experience building scalable web applications and implementing data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product performance, and grow in a fast-paced organization through continuous learning and collaboration.
 
 ---
 
-## About Me
+## 👤 About Me
 
-• AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
-• Django Developer with hands-on experience in building scalable web applications  
-• Specializing in **Full Stack Devlopment ,Machine Learning, and REST API Development**  
-• Open to internships, freelance work, and collaborative projects
+• 🎓 AI & Data Science Engineering student at **P. R. Pote Patil College of Engineering & Management, Amravati**  
+• 💻 Django Developer with hands-on experience in building scalable web applications  
+• 🚀 Specializing in **Full Stack Devlopment ,Machine Learning, and REST API Development**  
+• 🤝 Open to internships, freelance work, and collaborative projects
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Programming:**  
 `Python` `SQL` `JavaScript`
@@ -35,9 +35,9 @@ Result-driven developer with hands-on experience building scalable web applicati
 
 ---
 
-## Featured Projects
+## 💡 Featured Projects
 
-### MediMatch – Medicine Recommendation System
+### 💊 MediMatch – Medicine Recommendation System
 
 Django-based intelligent system that recommends medicines based on symptoms. Processes 300+ symptom-medicine records using TF-IDF ML models for accurate recommendations.
 
@@ -46,7 +46,7 @@ Django-based intelligent system that recommends medicines based on symptoms. Pro
 
 ---
 
-### ShopNexa – E-Commerce Web Application
+### 🛒 ShopNexa – E-Commerce Web Application
 
 Full-stack e-commerce platform with secure authentication, shopping cart functionality, and comprehensive admin management.
 
@@ -55,7 +55,7 @@ Full-stack e-commerce platform with secure authentication, shopping cart functio
 
 ---
 
-### MovieMate – Movie Ticket Booking Platform
+### 🎬 MovieMate – Movie Ticket Booking Platform
 
 Django-based movie ticket booking system that enables users to browse movies, view showtimes, select seats, and book tickets seamlessly with secure authentication and real-time booking flow.
 
@@ -64,7 +64,7 @@ Django-based movie ticket booking system that enables users to browse movies, vi
 
 ---
 
-### Pose Estimation – AI Fitness Application
+### 🏋️ Pose Estimation – AI Fitness Application
 
 Real-time pose estimation system using computer vision to track body movements and provide exercise feedback with ML-based angle calculations.
 
@@ -73,9 +73,9 @@ Real-time pose estimation system using computer vision to track body movements a
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Django Developer Intern
+### 👨‍💻 Django Developer Intern
 **JK Innovative Private Limited, Amravati** | *Dec 2024 – Jan 2025*
 
 Contributed to the development of enterprise web applications, focusing on backend optimization and database management. Worked collaboratively with the development team to deliver efficient, scalable solutions meeting client requirements.
@@ -85,7 +85,7 @@ Contributed to the development of enterprise web applications, focusing on backe
 
 ---
 
-### Python Full Stack Virtual Intern
+### 🌐 Python Full Stack Virtual Intern
 **AICTE Remote Internship** | *Apr 2025 – Jun 2025*
 
 Gained comprehensive experience in full-stack development, building end-to-end web applications with modern frameworks. Implemented secure authentication systems and RESTful APIs while following industry best practices.
@@ -94,7 +94,7 @@ Gained comprehensive experience in full-stack development, building end-to-end w
 
 ---
 
-### Google AI-ML Virtual Intern
+### 🤖 Google AI-ML Virtual Intern
 **AICTE Remote Internship** | *Nov 2024 – Dec 2024*
 
 Developed foundational expertise in machine learning algorithms and model development through hands-on projects. Applied data preprocessing, feature engineering, and model evaluation techniques to solve real-world problems.
@@ -103,11 +103,11 @@ Developed foundational expertise in machine learning algorithms and model develo
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-**Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
-**1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
-**Google Developer Group (GDG)** - Active Member at PRPCEM
+📄 **Research Publication** - *FitVerse: AI-Driven Real-Time Pose Correction System* | MAT Journals, 2025  
+🥇 **1st Place** - AI Quiz Competition, Global AI Bootcamp 2025, PRPCEM  
+👥 **Google Developer Group (GDG)** - Active Member at PRPCEM
 
 ---
 
@@ -119,12 +119,12 @@ Developed foundational expertise in machine learning algorithms and model develo
 
 ---
 
-## Contact
+## 📫 Contact
 
 • **LinkedIn:** [linkedin.com/in/aditya-hire-2a0974357](https://www.linkedin.com/in/aditya-hire-2a0974357)  
 • **Email:** [adityahire08@gmail.com](mailto:adityahire08@gmail.com)  
-• **Phone:** +91 9561534942  
-• **Portfolio:** https://adityahire.github.io/myportfolio/
+• **📱 Phone:** +91 9561534942  
+• **🌐 Portfolio:** https://adityahire.github.io/myportfolio/
 
 ---
 
