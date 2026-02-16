@@ -175,7 +175,7 @@ I'm actively seeking opportunities in **AI/ML Engineering**, **Backend Developme
 **💼 GitHub:** [github.com/AdityaHire](https://github.com/AdityaHire)  
 *Check out my code, projects, and contributions*
 
-**🌐 Portfolio:** [adityahire.github.io/myportfolio](https://adityahire.github.io/myportfolio/)  
+**🌐 Portfolio:** [https://adityahire.github.io/Portfolio/](https://adityahire.github.io/Portfolio/)  
 *View my complete work showcase and case studies*
 
 **📱 Phone:** +91 9561534942  
