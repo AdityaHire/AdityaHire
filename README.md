@@ -1,8 +1,6 @@
 # Hi, I'm Aditya Hire
 
-Result-driven developer with hands-on experience building scalable web applications and implementing
-data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product
-performance, and grow in a fast-paced organization through continuous learning and collaboration.
+Result-driven developer with hands-on experience building scalable web applications and implementing data-driven solutions. Seeking an opportunity to contribute to high-impact projects, improve product performance, and grow in a fast-paced organization through continuous learning and collaboration.
 ---
 
 ## 💼 About Me
