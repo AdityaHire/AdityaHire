@@ -73,6 +73,24 @@ Real-time pose estimation system using computer vision to track body movements a
 
 ---
 
+### ✍️ Blogify – Blog Website (MERN Stack)
+
+Full-stack blogging platform featuring user authentication, content management, rich text editing, and comment system. Built with modern MERN architecture for optimal performance and scalability.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT Authentication  
+**Key Features:** User authentication, Rich text editor, Comment system, Responsive design, Content management
+
+---
+
+### ✅ TaskMate – Todo List Application
+
+Productivity application for efficient task organization with priority levels, deadline tracking, progress monitoring, and notification system. Features intuitive UI for enhanced user experience.
+
+**Tech Stack:** Django, Bootstrap, SQLite, JavaScript, CRUD Operations  
+**Key Features:** Priority levels, Deadline tracking, Progress monitoring, Task categorization, User-friendly interface
+
+---
+
 ## 💼 Experience
 
 ### 👨‍💻 Django Developer Intern
