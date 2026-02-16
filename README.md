@@ -38,32 +38,39 @@ AI & Data Science Engineering student specializing in building intelligent appli
 ## 🚀 Featured Projects
 
 ### 🔹 MediMatch – Medicine Recommendation System
-Django ML system using TF-IDF for symptom-based medicine recommendations
-**Tech Stack:** Django, Scikit-learn, SQLite
+Advanced Django ML system that analyzes symptoms and recommends appropriate medicines using TF-IDF vectorization. Processes 300+ symptom-medicine records with intelligent matching algorithms for accurate healthcare recommendations.
+
+**Tech Stack:** Django, Scikit-learn, SQLite, Machine Learning, TF-IDF
 
 ### 🔹 Blogify – Blog Platform
-Full-stack blogging platform with user authentication and content management
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN)
+Full-stack blogging platform featuring user authentication, content management, rich text editing, and comment system. Built with modern MERN architecture for optimal performance and scalability.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js (MERN), JWT Authentication
 
 ### 🔹 ShopNexa – E-Commerce Platform
-Complete e-commerce solution with cart functionality and admin panel
-**Tech Stack:** Django, Bootstrap, MySQL
+Comprehensive e-commerce solution with shopping cart, payment integration, inventory management, and admin dashboard. Features category filtering, pagination, and SEO-friendly URLs.
+
+**Tech Stack:** Django, Bootstrap, MySQL, Django ORM, Payment Gateway
 
 ### 🔹 MovieMate – Ticket Booking System
-Movie booking platform with seat selection and secure payments
-**Tech Stack:** Django, JavaScript, MySQL
+Complete movie booking platform with real-time seat selection, showtime management, secure payment processing, and booking confirmation system. Includes admin panel for theater management.
+
+**Tech Stack:** Django, JavaScript, MySQL, Bootstrap, Payment Integration
 
 ### 🔹 TaskMate – Task Management App
-Productivity app for organizing tasks with priority levels and deadlines
-**Tech Stack:** Django, Bootstrap, SQLite
+Productivity application for efficient task organization with priority levels, deadline tracking, progress monitoring, and notification system. Features intuitive UI for enhanced user experience.
+
+**Tech Stack:** Django, Bootstrap, SQLite, JavaScript, CRUD Operations
 
 ### 🔹 Quiz Game – Interactive Quiz App
-Dynamic quiz application with scoring and timer functionality
-**Tech Stack:** HTML, CSS, JavaScript
+Dynamic quiz application with multiple question types, timer functionality, real-time scoring, and performance analytics. Features responsive design and smooth user interactions.
+
+**Tech Stack:** HTML, CSS, JavaScript, Local Storage, DOM Manipulation
 
 ### 🔹 Pose Estimation – AI Fitness App
-Real-time pose tracking for exercise feedback using computer vision
-**Tech Stack:** Python, MediaPipe, OpenCV
+Real-time pose tracking system using computer vision for exercise form correction and rep counting. Utilizes 33-point body landmark detection with ML-based angle calculations for fitness feedback.
+
+**Tech Stack:** Python, MediaPipe, OpenCV, Computer Vision, NumPy
 
 ---
 
